@@ -1,0 +1,16 @@
+.dyorexchange {
+  color: white;
+  text-align: center;
+  background-color: blue;
+  border-radius: 12px;
+  height: 30;
+  border: outset blue 5px;
+}
+.dyr {
+  text-align: center;
+  background-color: blue;
+  height: 200px;
+}
+.dyrtx {
+  color: white;
+}

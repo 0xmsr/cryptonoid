@@ -1,0 +1,43 @@
+.bodyherewallet {
+  font-family: Monospace;
+  background-color: black;
+  border-radius: 12px;
+}
+.herewalleth1 {
+  background-color: #ffa500;
+  text-align: center;
+  font-family: Monospace;
+  border: inset #ffa500 12px;
+}
+.herewallet3 {
+  color: grey;
+  font-family: Arial;
+  background-color: #e9dec8;
+}
+
+.herewallet {
+  background-color: #ffa500;
+  border-radius: 20px;
+  text-align: center;
+  color: grey;
+  height: 30px;
+  border: inset #ffa500 5px;
+}
+.herewallet2 {
+  border-radius: 21px;
+  background-color: #dfd5e0;
+  text-align: center;
+  color: grey;
+}
+.tx,.tx1 {
+  text-align: center;
+  background-color: #ffa500;
+}
+.hrcenter{
+  text-align: center;
+}
+
+.hrwl {
+  background-color: black;
+  height: 100%;
+}

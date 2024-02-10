@@ -1,0 +1,72 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: skyblue;
+  overflow: hidden;
+}
+
+.menu-toggle {
+  color: white;
+  cursor: pointer;
+  padding: 14px 16px;
+  float: left;
+  display: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #b9e2e9;
+  border-radius: 39px;
+}
+
+@media screen and (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+  ul {
+    display: none;
+  }
+  ul.active {
+    display: block;
+  }
+}
+.bundar {
+  border-radius: 20px;
+}
+
+/* zksynms */
+
+.fnbkg {
+  background-color: aliceblue;
+  border-radius: 8px;
+}
+
+.fn1 {
+  color: black;
+  text-shadow: grey;
+}
+.fn2 {
+  color: skyblue;
+}
